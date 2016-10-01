@@ -67,7 +67,6 @@
   /* 6 columns */
   .col-6 {
     width: 50%;
-
   }
 
   /* 12 columns */
@@ -75,9 +74,10 @@
     width: 100%;
   }
 
-  #img-mobile display: ; 
 }
 
- /* #img-responsive {display: none;}
-  #img-mobile {display: block;}*/
+ /* 
+  #img-responsive {display: none;}
+  #img-mobile {display: block;}
+*/
 }

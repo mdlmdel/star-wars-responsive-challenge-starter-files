@@ -44,6 +44,7 @@ div .col-4 {
   background-color: #e1af33;
   padding-top: 5px;
 }
+
 h1 {
   font-size: 40px;
   font-weight: bold;
@@ -67,6 +68,11 @@ h6 {
 p {
   font-size: 12px;
   padding-left: 10px;
+}
+
+.card {
+  max-width: 100%;
+  height: auto;
 }
 
 .img {
